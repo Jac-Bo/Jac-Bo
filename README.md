@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm JacBo, or Jacob</h1>
-<h3 align="center">I'm a passionate full-stack developer</h3>
+<h3 align="center">I'm a Fullstack Developer and Bot Developer!</h3>
 
 - 🔭 I’m currently working on [Track-House](https://github.com/Jac-Bo/Track-House)
 
-- 🌱 I’m currently learning **Express, Axios, Mongoose, Typescript, React, Svelte**
+- 🌱 I’m currently learning **Express, Axios, Mongoose, Typescript, React**
 
-- 🔭I'm Also Working on [YolkBot--Discord Bot](https://github.com/Jac-Bo/Discord-Bot)
+- 🔭I'm Also Working on A Few Discord Bots
+> - [YolkBot](https://github.com/Jac-Bo/Discord-Bot)
+> - [Anime Tracker Discord Bot](https://github.com/Jac-Bo/Anime-Tracking-Discord-Bot)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jac-Bo](https://github.com/Jac-Bo)
+- 👨‍💻 All of my Project are Available At [https://github.com/Jac-Bo](https://github.com/Jac-Bo)
 
-- 📫 How to reach me **jacbo__@zer0xeon.xyz**
+- 📫 How to reach me **jacbo.business@gmail.com**
 
 
 <h3 align="center">Languages and Tools:</h3>
