@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JacBo, or Jacob</h1>
-<h3 align="center">I'm a Fullstack Developer and Bot Developer!</h3>
+<h3 align="center">I'm a Hobbyist Fullstack Developer!</h3>
 
 - 🔭 I’m currently working on [Track-House](https://github.com/Jac-Bo/Track-House)
 
