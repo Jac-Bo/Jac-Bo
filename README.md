@@ -9,7 +9,7 @@
 > - [General Use Discord Bot](https://github.com/Jac-Bo/Discord-Bot)
 > - [Anime Tracker Discord Bot](https://github.com/Jac-Bo/Anime-Tracking-Discord-Bot)
 
-- 👨‍💻 All of my Project are Available At [https://github.com/Jac-Bo](https://github.com/Jac-Bo)
+- 👨‍💻 All of my Project are Available [Here](https://github.com/Jac-Bo)
 
 - 📫 How to reach me **jacbo.business@gmail.com**
 
