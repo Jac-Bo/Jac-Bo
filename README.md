@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm JacBo, or Jacob</h1>
 <h3 align="center">I'm a Hobbyist Fullstack Developer!</h3>
 
-- 🔭 I’m currently working on [Track-House](https://github.com/Jac-Bo/Track-House)
+- 🔭 I’m currently working on [Learning GoLang Backend With Gin Web Framework](https://github.com/Jac-Bo/Learning-Go-Backend)
 
 - 🌱 I’m currently learning **Express, Axios, Mongoose, Typescript, React**
 
 - 🔭I'm Also Working on A Few Discord Bots
-> - [YolkBot](https://github.com/Jac-Bo/Discord-Bot)
+> - [General Use Discord Bot](https://github.com/Jac-Bo/Discord-Bot)
 > - [Anime Tracker Discord Bot](https://github.com/Jac-Bo/Anime-Tracking-Discord-Bot)
 
 - 👨‍💻 All of my Project are Available At [https://github.com/Jac-Bo](https://github.com/Jac-Bo)
