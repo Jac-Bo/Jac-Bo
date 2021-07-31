@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Learning GoLang Backend With Gin Web Framework](https://github.com/Jac-Bo/Learning-Go-Backend)
 
-- 🌱 I’m currently learning **Express, Axios, Mongoose, Typescript, React**
+- 🌱 I’m currently learning **Express, Axios, Mongoose, Typescript, React, GoLang, Go Gin Web Framework**
 
 - 🔭I'm Also Working on A Few Discord Bots
 > - [General Use Discord Bot](https://github.com/Jac-Bo/Discord-Bot)
